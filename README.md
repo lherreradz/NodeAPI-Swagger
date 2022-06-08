@@ -1,7 +1,7 @@
 # NodeAPI-Swagger
 NodeAPI using Swagger documentation
 
-To run this
+First run this
 
 `npm install`
 
